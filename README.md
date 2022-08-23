@@ -6,6 +6,10 @@ These are the Hands-On lab files for the the **Docker and Kubernetes on DigitalO
 
 https://kubernetesacademy.online/product/docker-containers-and-kubernetes-on-digitalocean/
 
+Changelog: https://kubernetesacademy.online/changelog/
+
+Backlog: https://github.com/users/guybarrette/projects/1
+
 ## About this course
 
 - Includes all the Fundamentals course modules
