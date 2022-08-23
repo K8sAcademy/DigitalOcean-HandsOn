@@ -61,7 +61,7 @@ Build, store, secure, scan, and manage container images with DigitalOcean Contai
 
 <img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/Terraform_VerticalLogo_Color_RGB.svg" width=75px>
 
-Learn how to use Infrastructure as Code with over 100 minutes of content on Terraform. Deploy an AKS cluster using Terraform, and learn how to use Terraform Cloud.
+Learn how to use Infrastructure as Code with over 100 minutes of content on Terraform. Deploy a DOKS cluster using Terraform, and learn how to use Terraform Cloud.
 
 ### Tools and Service Mesh
 
