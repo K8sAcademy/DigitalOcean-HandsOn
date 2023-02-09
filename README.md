@@ -1,7 +1,5 @@
 # Docker and Kubernetes on DigitalOcean Hands-On labs
 
-<img src="https://kubernetesacademy.online/wp-content/uploads/2021/07/BadgeLinodeEN.svg" width=200px>
-
 These are the Hands-On lab files for the the **Docker and Kubernetes on DigitalOcean** self-paced training course.
 
 ## About this course
@@ -20,55 +18,37 @@ These are the Hands-On lab files for the the **Docker and Kubernetes on DigitalO
 
 ### Docker
 
-<img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/Docker-logo-no-text.svg" width=75px>
-
 Learn how to containerize applications with the Docker CLI and Visual Studio Code. Push and pull container images on Docker Hub, a container registry. Learn how to create multi-container applications using Docker Compose.​
 
 ### Kubernetes
-
-<img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/Kubernetes_logo-wheel.svg" width=75px>
 
 Learn about the Kubernetes architecture and how it works. Run it locally and use the Kubernetes CLI and Visual Studio Code to run, debug and troubleshoot applications and services. Learn about pods and the different workloads available. Configure networking, storage and set liveness and readiness probes.
 
 ### App Platform
 
-<img src="https://kubernetesacademy.online/wp-content/uploads/2021/07/DigitalOceanAppPlatform2.svg" width=75px>
-
 Deploy and manage container applications on App Platform, a Platform-as-a-Service (PaaS) type of service that manage the infrastructure for you. Perfect for smaller workloads that don't require a full blown orchestration service like Kubernetes.
 
 ### Container Registry
-
-<img src="https://kubernetesacademy.online/wp-content/uploads/2021/07/DigitalOceanContainerRegistry.svg" width=75px>
 
 Build, store, secure, scan, and manage container images with DigitalOcean Container Registry, a fully managed container registry.
 
 ### Droplets
 
-<img src="https://kubernetesacademy.online/wp-content/uploads/2021/07/digitalocean-droplets.svg" width=75px>
-
 Deploy and manage container applications on Droplets, Virtual Private Servers (VPS) where you have full control. Perfect for smaller workloads that don't require a full blown orchestration service like Kubernetes.
 
 ### DigitalOcean Kubernetes Service (DOKS)
-
-<img src="https://kubernetesacademy.online/wp-content/uploads/2021/07/DigitalOceanKubernetes.svg" width=75px>
 
 Build, store, secure, scan, and manage container images with DigitalOcean Container Registry, a fully managed container registry.
 
 ### Infrastructure as Code
 
-<img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/Terraform_VerticalLogo_Color_RGB.svg" width=75px>
-
 Learn how to use Infrastructure as Code with over 100 minutes of content on Terraform. Deploy a DOKS cluster using Terraform, and learn how to use Terraform Cloud.
 
 ### Tools and Service Mesh
 
-<img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/Tool.svg" width=75px>
-
 Learn how to use Helm to package and deploy applications. Learn about the benefits of using a service mesh by "meshing" and troubleshooting an application using Linkerd.
 
 ### Monitoring
-
-<img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/Monitor-Large.svg" width=75px>
 
 Collect, analyze and act on telemetry data gathered from your Kubernetes clusters and containers using Prometheus and Grafana.
 
@@ -90,13 +70,7 @@ Finally, you’ll learn about Infrastructure as Code with a complete set of lect
 
 ## Meet your Instructor​
 
-<img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/GuyBarrette-Square-min.png" width=250px>
-
 Guy Barrette is a developer/trainer with more then 25 years of experience. He worked for many years as a developer, solutions architect, Microsoft Certified Trainer and now he shares his passion for containers and microservices teaching Docker and Kubernetes. He was awarded Microsoft Most Valuable Professional in the Azure category and passed the following certifications: Kubernetes and Cloud Native Associate, Certified Kubernetes Application Developer (CKAD), Terraform Certified Associate, AWS Cloud Practitioner, Google Cloud Associate Cloud Engineer, Azure Fundamentals, Azure Developer Associate and Azure Architect Design.
-
-<img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/ckad-min-150x150.png" width=100px><img src="https://kubernetesacademy.online/wp-content/uploads/2021/11/KCNA-340px-150x150.webp" width=100px><img src="https://kubernetesacademy.online/wp-content/uploads/2022/03/hashicorp-certified-terraform-associate-340px-150x150.webp" width=100px><img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/Google-Associate-Cloud-Engineer-min-150x150.png" width=100px><img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/AWS-CloudPractitioner-2020-min-150x150.png" width=100px><img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/MVP_Logo_Square-min-150x150.png" width=100px><img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/azure-fundamentals-min-150x150.png" width=100px><img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/azure-developer-associate-min-150x150.png" width=100px>
-
-https://kubernetesacademy.online @K8s_Online
 
 https://guybarrette.com @GuyBarrette @guybarrette@techhub.social
 

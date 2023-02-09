@@ -1,7 +1,5 @@
 # L102-AZ-02
 
-![Hands-On Files](https://kubernetesacademy.online/wp-content/uploads/2021/06/checked-files-50px.png)
-
 ## Create a new DOKS
 
 Open a terminal and navigate to the **create** folder

@@ -12,13 +12,9 @@ Create a new file and name it **main.tf**
 
 Head to https://registry.terraform.io
 
-![image](https://kubernetesacademy.online/wp-content/uploads/2022/03/L101-DO-03-01.png)
-
 Locate the DigitalOcean provider and click on the **Use Provider** button.
 
 Copy the code and paste it in the main.tf file.
-
-![image](https://kubernetesacademy.online/wp-content/uploads/2022/03/L101-DO-03-02.png)
 
 ## Edit the code
 
@@ -36,15 +32,9 @@ Save the file
 
 In the DigitalOcean console, click on **API** in the left menu and then click on the **Generate New Token** button.
 
-![image](https://kubernetesacademy.online/wp-content/uploads/2022/03/L101-DO-03-03.png)
-
 Make sure that you check the **Write scope**.
 
-![image](https://kubernetesacademy.online/wp-content/uploads/2022/03/L101-DO-03-04.png)
-
 Copy the token
-
-![image](https://kubernetesacademy.online/wp-content/uploads/2022/03/L101-DO-03-05.png)
 
 In the **main.tf** file, replace the [your token] placeholder with your DigitalOcean token.
 
