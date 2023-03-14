@@ -8,7 +8,7 @@ Open the Control Panel and click on the **Apps** menu.
 
 Select **Docker Hub** as the image source.
 
-Type **k8sacademy/hello** as the image name.
+Type **guybarrette/hello** as the image name.
 
 Edit the HTTP port, change it to **80**
 

@@ -18,7 +18,7 @@ Using a terminal, type this using the Droplet's IP address:
 
 Run the hello image using a restart policy.
 
-    docker run -d --name hello -p 80:80 --restart unless-stopped k8sacademy/hello:latest
+    docker run -d --name hello -p 80:80 --restart unless-stopped guybarrette/hello:latest
 
 ## Cleanup
 
